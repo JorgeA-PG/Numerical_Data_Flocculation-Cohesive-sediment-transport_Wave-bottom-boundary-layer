@@ -4,8 +4,8 @@ The folder “ModelingFrameworkResults” contains the data and results presente
  
 For each case “C”, there is a folder named “InitialProfiles”, which contains 4 input files to run the modeling framework as:
 
-d_x3.mat 	=	vertical grid points [m]
-dGsed.mat =	wave-period-averaged turbulent shear rate profile [s^{-1}]
+* d_x3.mat 	=	vertical grid points [m]
+* dGsed.mat =	wave-period-averaged turbulent shear rate profile [s^{-1}]
 Kt.mat 	  =	turbulent diffusivity [m^{2} s^{-1}]
 Tav_MassC =	wave-period-averaged sediment concentration [kg m^{-3}]
 
