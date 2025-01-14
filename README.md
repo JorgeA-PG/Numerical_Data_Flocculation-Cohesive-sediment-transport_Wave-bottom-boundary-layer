@@ -1,4 +1,4 @@
-# Data_Flocculation-Cohesive-sediment-transport_Wave-bottom-boundary-layer
+# Numerical_Data_Flocculation-Cohesive-sediment-transport_Wave-bottom-boundary-layer
 
 <p style="text-align: justify;">
 The folder “ModelingFrameworkResults” contains the data and results presented in the scientific paper “A Numerical Modeling Framework for Flocculation and Cohesive Sediment Transport in the Wave Bottom Boundary Layer.” The results are categorized based on the initial profile cases: high constant settling velocity (C1, C2, and C3) and low constant settling velocity (C4, C5, and C6).
